@@ -9,4 +9,4 @@ This includes the official Pitek 2.0 server, the provided server download, or th
 <b>Table of contents</b>
 </center>
 
-#|=| <a href="https://github.com/JzJad/PiTek-2.0/blob/master/modlist.html">Mod List</a>
+|=| <a href="https://github.com/JzJad/PiTek-2.0/blob/master/modlist.html">Mod List</a>
